@@ -27,7 +27,6 @@ Minha jornada através do suporte técnico e da gestão de projetos me deu uma v
 
 ## Formação
 
-- Engenharia da Computação - Impacta Tecnologia (2025-2029)
 - Análise e Desenvolvimento de Sistemas - UNINTER (2024-2026)
 
 ---
@@ -83,7 +82,6 @@ Software developer with experience in complete web solutions. Computer Engineeri
 
 ## Education
 
-- Computer Engineering - Impacta Tecnologia (2025-2029)
 - Systems Analysis & Development - UNINTER (2024-2026)
 
 ---
