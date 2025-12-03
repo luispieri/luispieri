@@ -72,14 +72,6 @@ Software developer with experience in complete web solutions. Computer Engineeri
 
 ---
 
-## Tech Stack
-
-**Frontend:** JavaScript, TypeScript, HTML5, CSS3, Angular  
-**Backend:** Node.js, PHP, Python, Django, MySQL  
-**Tools:** Git, GitHub, RESTful APIs, Cloud Deployment
-
----
-
 ## Education
 
 - Systems Analysis & Development - UNINTER (2024-2026)
